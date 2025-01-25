@@ -3,3 +3,14 @@ Cloudy #b0aaa0
 Tuatara #242322
 Paarl #945e2a
 Irish Coffee #5a3d26
+
+GPT prompt: 
+Generate a fun cartoon-style PNG image that displays a young 
+adult male with a fedora and formal attire riding an old-school 
+bicycle while tossing a cup of coffee to a group of friendly people. 
+The line "Share the good brews" should be displayed in a fun, 
+cartoon-like font in the background. The PNG should follow a 
+black-and-white color scheme. There should also be some 1920s-style 
+shops in the background. The coffee-shop signs and coffee cup should 
+display the name "Brew Peddler". A wider image is preferred for a 
+desktop display.
